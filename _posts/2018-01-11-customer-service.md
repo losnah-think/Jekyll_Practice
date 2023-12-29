@@ -26,3 +26,7 @@ $ brew services start jenkins
 - 설정에서 Repo의 URL 만 잘 연동하면 된다.
 
 ### 나머지 자동 빌드는 고민 에정...
+
+# git 설정을 안했으면 아래 링크 참고
+
+[git user.name, email](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-Git-%EC%B5%9C%EC%B4%88-%EC%84%A4%EC%A0%95)
